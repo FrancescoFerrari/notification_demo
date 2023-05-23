@@ -1,0 +1,7 @@
+[demo.app][2023-05-23 21:49:01,062][INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:30123
+[demo.app][2023-05-23 21:49:01,062][INFO]: [33mPress CTRL+C to quit[0m
+[demo.app][2023-05-23 21:49:08,955][INFO]: 127.0.0.1 - - [23/May/2023 21:49:08] "[33mGET / HTTP/1.1[0m" 404 -
+[demo.app][2023-05-23 21:49:09,049][INFO]: 127.0.0.1 - - [23/May/2023 21:49:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[demo.app][2023-05-23 21:49:12,110][INFO]: 127.0.0.1 - - [23/May/2023 21:49:12] "GET /docs HTTP/1.1" 200 -
+[demo.app][2023-05-23 21:49:12,495][INFO]: 127.0.0.1 - - [23/May/2023 21:49:12] "GET /openapi.json HTTP/1.1" 200 -
